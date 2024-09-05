@@ -72,10 +72,8 @@ BERT achieved the highest performance, closely followed by Multinomial Naive Bay
 - Investigation of ensemble methods
 
 ## Contributors
-- [Your Name]
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- Eshaq Rahmani
+- Fellow Students
 
 ## Acknowledgments
 - Scikit-learn for providing the 20 Newsgroups dataset
