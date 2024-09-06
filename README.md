@@ -53,17 +53,9 @@ The project uses the 20 Newsgroups dataset, which consists of approximately 20,0
 
 BERT achieved the highest performance, closely followed by Multinomial Naive Bayes. CNN slightly outperformed LSTM, while all models struggled with closely related or overlapping topic classes.
 
-## Repository Structure
-- `data/`: Contains the dataset and data preparation scripts
-- `notebooks/`: Jupyter notebooks for data analysis and model implementation
-- `src/`: Source code for model implementations and utilities
-- `results/`: Output files, figures, and detailed result analysis
-- `requirements.txt`: List of required Python packages
-
 ## Usage
 1. Clone the repository
-2. Install the required packages: `pip install -r requirements.txt`
-3. Run the Jupyter notebooks in the `notebooks/` directory for step-by-step analysis and model implementation
+2. Run the Jupyter notebooks in the `notebooks/` directory for step-by-step analysis and model implementation
 
 ## Future Work
 - Further fine-tuning of models, especially BERT
